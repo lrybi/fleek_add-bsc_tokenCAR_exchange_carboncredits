@@ -10,7 +10,7 @@ Deploy on:
     + Binance Smart Chain Testnet
     + Ethereum Sepolia 
 
-Hosting on IPFS & Filecoin using Fleek: ...
+Hosting on IPFS & Filecoin using Fleek: https://delicate-band-1369.on.fleek.co
 
 backend: ...
 
