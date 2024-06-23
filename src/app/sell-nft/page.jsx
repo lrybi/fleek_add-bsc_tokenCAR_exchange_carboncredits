@@ -256,7 +256,8 @@ export default function Sell() {
   }
 
   async function updateProceedsUI() {
-    if (chainId == 11155111 || chainId == 31337) {
+    //if (chainId == 11155111 || chainId == 31337) {
+    if (chainId == 11155111 || chainId == 97) {
       const returnedProceeds = await readContract(config, {
         abi: abiNftMarketplace,
         address: marketplaceAddress, 
